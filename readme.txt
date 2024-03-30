@@ -7,3 +7,5 @@ John이 처음 업데이트한 내용
 1. 회원 가입
 2. 상품 등록
 3. 상품 구매
+
+update by skatmdgur63@naver.com
